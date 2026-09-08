@@ -1,0 +1,22 @@
+安装前要修改hosts文件，将下面的5行信息添加至最下面
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+
+
+Hosts文件位置 C:\Windows\System32\drivers\etc
+
+
+
+
+key信息
+Xshell-5.0.1339  ：181226-111351-999033
+Xftp 5  ：181227-114744-999004
+Xftp 6   : 190515-114597-999964
+Xshell-6.0.0109  ：181226-111725-999177
+Xshell 6  ：181226-111725-999177
+Xshell 6   :  190514-111553-999041
+XshellPlus-6.0.0011  ：181226-117860-999055
+XmanagerPowerSuite-6.0.0011  ：181226-116119-999510
