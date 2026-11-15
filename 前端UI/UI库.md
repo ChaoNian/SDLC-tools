@@ -28,7 +28,9 @@ https://astryx.atmeta.com/
 热门图表库将其 React 组件合并进主包。
 https://naver.github.io/billboard.js/#start
 
-
 类似原生应用的页面过渡效果
 SSGOI 能够自动处理路线之间的切换，而无需手动干预导航操作。只需一个配置参数和一个路线边界设定，就能实现整个系统的启动。
 https://ssgoi.dev/docs
+
+一个用于构建下一代用户界面的智能体行为库
+https://ui-sdk.dev/
