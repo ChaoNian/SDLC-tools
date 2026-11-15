@@ -34,3 +34,6 @@ https://ssgoi.dev/docs
 
 一个用于构建下一代用户界面的智能体行为库
 https://ui-sdk.dev/
+
+一组 React 组件，能把手机、笔记本电脑等小型 3D 物件渲染成 SVG，屏幕内还带有可交互的 HTML。做原型演示，或在首页放一段「场景化」预热，或许用得上。
+https://vectoys.com/
